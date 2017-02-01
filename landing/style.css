@@ -1,0 +1,29 @@
+body{
+  background-color: #666370;
+  color: #F0EBD8;
+  font-size: 25px;
+  font-family: 'Assistant', sans-serif;
+  font-weight: bold;
+
+}
+h1{
+  font-family: 'BenchNine', sans-serif;
+  color: red;
+  font-weight: lighter;
+  font-size: 10px;
+}
+h2 {
+  font-family: Courier;
+  color: pink;
+  font-weight: lighter;
+  font-size: 8px;
+}
+a {
+  color: yellow;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
+
+
